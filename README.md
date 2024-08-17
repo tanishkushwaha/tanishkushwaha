@@ -1,8 +1,8 @@
 # Hi there, I'm Tanish 👋
 
-👨‍💻 I'm a Full Stack Developer who loves to code and solve problems.
+👨‍💻 I'm a Full Stack Developer.
 
-🚀 My journey in tech is all about learning, building, and sharing my experiences.
+🚀 My journey in tech is all about learning, building, and sharing my experience.
 
 ## Activity Graph 📊
 
