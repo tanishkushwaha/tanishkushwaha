@@ -1,6 +1,6 @@
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=tanishkushwaha&show_icons=true" alt="Danny Koppenhagens Github Stats"></img> -->
-
 # Hi there, I'm Tanish 👋
+
+I'm a Full Stack Developer who loves to code and solve problems. My journey in tech is all about learning, building, and sharing my experiences.
 
 ## Activity Graph 📊
 
