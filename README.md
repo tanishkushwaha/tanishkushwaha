@@ -2,21 +2,18 @@
 
 # Hi there, I'm Tanish 👋
 
-**Activity Graph** 📊
+## Activity Graph 📊
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanishkushwaha&theme=github-dark-dimmed&custom_title=Tanish's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-**Trophies 🏆**
+## Trophies 🏆
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=tanishkushwaha&theme=juicyfresh&title=MultiLanguage,Commits,Experience,Repositories&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
-**Languages & Tools** 🛠
+## Tools & Languages 🛠
 
 <!-- Next.js -->
-
-<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg
- " style="padding-right:10px;" />
-
+<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
 <!-- React -->
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <!-- TypeScript -->
