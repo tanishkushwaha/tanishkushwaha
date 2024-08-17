@@ -1,6 +1,8 @@
 # Hi there, I'm Tanish 👋
 
-I'm a Full Stack Developer who loves to code and solve problems. My journey in tech is all about learning, building, and sharing my experiences.
+👨‍💻 I'm a Full Stack Developer who loves to code and solve problems.
+
+🚀 My journey in tech is all about learning, building, and sharing my experiences.
 
 ## Activity Graph 📊
 
@@ -10,7 +12,7 @@ I'm a Full Stack Developer who loves to code and solve problems. My journey in t
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=tanishkushwaha&theme=juicyfresh&title=MultiLanguage,Commits,Experience,Repositories&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
-## Tools & Languages 🛠
+## Tools & Tech 🛠
 
 <!-- Next.js -->
 <img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
